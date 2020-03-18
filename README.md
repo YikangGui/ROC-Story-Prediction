@@ -10,19 +10,19 @@ There are two main folders in our project:
 ./SupportingMaterials
 `
 
-You should run command in ./src
+You should run command in `./src`
 
-We decide to use Cosine Similarity Model which is in model.py. To run this model
+We decide to use Cosine Similarity Model which is in `model.py`. To run this model
 
 `python model.py`
 
-This command will generate predictions on test set and the predictinos are saved in ./SupportingMaterials/samplePrediction.txt
+This command will generate predictions on test set and the predictinos are saved in `./SupportingMaterials/samplePrediction.txt`
 
 Here are models we tried but not decided to use:
 
 1. RNN
 
-   We implemented an RNN model which is in ./src/train_cad.py. To run this model, you should unzip the zip files in ./src/save/context_pretrain
+   We implemented an RNN model which is in `./src/train_cad.py`. To run this model, you should unzip the zip files in ./src/save/context_pretrain
    
    `python 'utils(2).py'`
    
@@ -30,8 +30,8 @@ Here are models we tried but not decided to use:
     
 2. Logistic Regression
    
-   We implemented a LR model which is in ./src/lr.py. To run this model,
+   We implemented a LR model which is in `./src/lr.py`. To run this model,
    
    `python lr.py`
    
-   Notice: This may take 10 hours to fine-tune the doc2vec model.# ROC-Story-Prediction
+   Notice: This may take 10 hours to fine-tune the doc2vec model.
