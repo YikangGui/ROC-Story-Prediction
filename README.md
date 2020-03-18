@@ -2,8 +2,9 @@
 
 There are two main folders in our project:
 `
-./src\
+./src
 `
+
 `
 ./SupportingMaterials
 `
