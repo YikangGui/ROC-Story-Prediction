@@ -1,8 +1,10 @@
 # README
 
-There are two main folders in our project:\
+There are two main folders in our project:
+`
 ./src\
 ./SupportingMaterials
+`
 
 You should run command in ./src
 
