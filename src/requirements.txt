@@ -48,7 +48,7 @@ de-core-news-sm==2.0.0
 decorator==4.4.1
 defusedxml==0.6.0
 dill==0.2.9
-distributed==2.7.0
+distributed==2021.10.0
 docutils==0.15.2
 en-core-web-lg==2.2.5
 en-core-web-md==2.2.5
